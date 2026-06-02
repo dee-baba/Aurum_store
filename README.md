@@ -1,0 +1,2 @@
+# Aurum_store
+E-COMMERCE PLATFORM 
